@@ -5,7 +5,7 @@ import { Envelope, Key } from 'phosphor-react-native';
 
 import Logo from '../assets/logo_primary.svg';
 
-import { Input } from '../components/input';
+import { Input } from '../components/Input';
 import { Button } from '../components/Button';
 
 
